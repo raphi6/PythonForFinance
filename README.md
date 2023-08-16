@@ -6,3 +6,4 @@
       - Risk-Return Ratios
       - Volatility
       - Gaussian vs Student's t-distribution for Stock Returns
+      - Implied Volatility calculated by Newton-Raphson method
